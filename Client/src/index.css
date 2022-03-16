@@ -25,12 +25,3 @@ main{
   grid-area: main;
 }
 
-footer{
-  grid-area: footer;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: #fff;
-  background-color: rgb(71, 71, 163);
-  font-size: 20px;
-}
