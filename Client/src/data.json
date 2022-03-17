@@ -1,0 +1,34 @@
+[
+    {
+        "id":"id1",
+        "title":"computer",
+        "imgUrl":"/images/comp1",
+        "desc":"Best computer for personal used",
+        "price":150,
+        "size":["S","M","L"]
+    },
+    {
+        "id":"id2",
+        "title":"Shose",
+        "imgUrl":"/images/shose",
+        "desc":"Best computer for personal used",
+        "price":15,
+        "size":["S","M","L"]
+    },
+    {
+        "id":"id3",
+        "title":"T-Shirt",
+        "imgUrl":"/images/shirt",
+        "desc":"Best computer for personal used",
+        "price":5,
+        "size":["S","M","L"]
+    },
+    {
+        "id":"id4",
+        "title":"Football",
+        "imgUrl":"/images/football",
+        "desc":"Best computer for personal used",
+        "price":150,
+        "size":["S","M"]
+    }
+]
